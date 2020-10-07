@@ -24,7 +24,7 @@ background(0);
 ellipse(txt, width/1.5,12,12);
 fill(13,255,0);
 textFont(font,40);
-textSize(50);
+textSize(60);
 textAlign(CENTER,CENTER);
 text("SUPERMAMIE",250,250);
 
